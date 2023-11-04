@@ -1,0 +1,20 @@
+StartLocation,StartX,StartY,EndLocation,EndX,EndY
+Memorial Library,28,-12,Picnic Point,40,5
+Picnic Point,40,5,Union South,41,6
+Union South,41,6,UW Hospital,66,29
+Ian's Pizza,7,22,Dejope,65,30
+Dejope,65,30,Babcock Dairy Store,42,4
+Babcock Dairy Store,42,4,Ian's Pizza,7,22
+UW Hospital,66,29,Library Mall,72,33
+Kohl Center,10,19,Culver's,38,3
+Culver's,38,3,Graigner Hall,25,-11
+Graigner Hall,25,-11,Kohl Center,10,19
+Library Mall,72,33,Camp Randall,55,9
+Camp Randall,55,9,Arboretum,24,-8
+Nicholas Recreation Center,10,25,Capitol,51,20
+Capitol,51,20,Nicholas Recreation Center,10,25
+Arboretum,24,-8,Memorial Library,28,-12
+Memorial Library,28,-12,Library Mall,72,33
+Library Mall,72,33,Dejope,65,30
+UW Hospital,66,29,Babcock Dairy Store,42,4
+Culver's,38,3,Nicholas Recreation Center,10,25
